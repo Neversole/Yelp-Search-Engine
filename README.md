@@ -11,7 +11,11 @@ This repo contains a project that was completed in the early years of my studies
 * yelp_review.JSON
 * yelp_user.JSON
 
-### parser.py
+### ParseAndInsert.py
+This code parses JSON files and inserts the data into the PostgresSQL database.
+
+### SQL_statements.sql
+The SQL statements used in PostgreSQL to create and alter the data tables.
 
 
 version https://git-lfs.github.com/spec/v1
