@@ -1,4 +1,4 @@
-# Yelp Review Search Engine
+# Yelp Business Search Engine
 -------------------------
 
 This repo contains a project that was completed in the early years of my studies. This project uses Yelp business and review metadata to produce a graphical user interface search engine. The user interface enables users to view details about Yelp business after selecting a business category or a state, city and/or zip code.
