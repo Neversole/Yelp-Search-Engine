@@ -20,7 +20,8 @@ The SQL statements used in PostgreSQL to create and alter the data tables.
 ### Seach_Engine_App.py
 This code creates the application for the search engine using Python and PyQt.
 
-
+### Milestone1App.ui
+This is the PyQt user interface file.
 
 
 
